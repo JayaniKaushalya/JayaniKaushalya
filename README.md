@@ -82,25 +82,5 @@ LinkedIn https://www.linkedin.com/in/jayani-weerasingha-8a6697193/
 
 
   
-  
-
- 
-   
-
- <!-- Contador de visitas -->
-
-  
-
-
-
 </div> <br>
 
-<!--[Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-
-![Github status](https://github-readme-stats.vercel.app/api?username=JayaniKaushalya&count_private=true&show_icons=true&theme=radical)
-
-![Language used](https://github-readme-stats.vercel.app/api/top-langs/?username=JayaniKaushalya&show_icons=true&theme=radical)
-![Language used](https://github-readme-stats.vercel.app/api/top-langs/?username=JayaniKaushalya&layout=compact&langs_count=7&theme=radical)
-![github streak](https://github-readme-streak-stats.herokuapp.com/?user=JayaniKaushalya&theme=radical)--!>
