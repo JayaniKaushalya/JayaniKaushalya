@@ -1,6 +1,6 @@
 <h3>Hi there 👋</h3>
 
-I'm Jayani Weerasinghe from Sri Lanka , and I'm an enthusiastic, hardworking, energetic, and creative undergraduate of Faculty of Information Technology , University of Moratuwa. I really enjoy learning langauges and frameworks like C# , .NET , .NET Core , Java , html , CSS , JavaScript , Bootstrap . I love designing wireframes and prototypes, to build websites and web applications .
+I'm Jayani Weerasinghe from Sri Lanka , and I'm an enthusiastic, hardworking, energetic, and creative undergraduate of Faculty of Information Technology , University of Moratuwa. I have a passion for web development, design and  enjoy learning languages and frameworks like  Java, .NET, HTML, JavaScript, CSS, React JS and Bootstrap.
 
 
 <br>
