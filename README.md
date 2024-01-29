@@ -9,6 +9,14 @@ I'm Jayani Weerasinghe from Sri Lanka , and I'm an enthusiastic, hardworking, en
 
 LinkedIn https://www.linkedin.com/in/jayani-weerasingha-8a6697193/
 
+![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)
+
+Behance https://www.behance.net/jayanikaushalya
+
+![Wix](https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white)
+
+Wix https://weerasinghaj7.wixsite.com/my-portfolio
+
 
 <br>
 
