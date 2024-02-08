@@ -4,7 +4,7 @@
 </h2>
  
 <br>
-Hello <img src="https://user-images.githubusercontent.com/74038190/216654095-6f6772e4-e433-4bba-9164-1ca6f463ac3f.gif" width="30" />
+### Hello <img src="https://user-images.githubusercontent.com/74038190/216654095-6f6772e4-e433-4bba-9164-1ca6f463ac3f.gif" width="50" />
 
 I'm Jayani Weerasinghe from Sri Lanka , and I'm an  enthusiastic, hardworking, energetic, and creative fresh graduate with good interpersonal and communication skills, I am eager to learn new things at every opportunity. I am passionate about web development and design. 
 <br>
@@ -14,7 +14,7 @@ I'm Jayani Weerasinghe from Sri Lanka , and I'm an  enthusiastic, hardworking, e
  ## Technology Stack 
 
 <p align='center'>
-<img src="https://user-images.githubusercontent.com/74038190/212749443-0810e511-4f46-4492-96aa-3c110d7bc41a.gif" width="500"></p>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" /></p>
 
 
 <h3> Languages & Frameworks </h3>
@@ -53,8 +53,6 @@ I'm Jayani Weerasinghe from Sri Lanka , and I'm an  enthusiastic, hardworking, e
 <br>
 
 
-![Github status](https://github-readme-stats.vercel.app/api?username=JayaniKaushalya&count_private=true&show_icons=true&theme=tokyonight)
-
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayaniKaushalya&layout=compact&langs_count=7&theme=tokyonight"/>
+![Github status](https://github-readme-stats.vercel.app/api?username=JayaniKaushalya&count_private=true&show_icons=true&theme=tokyonight) <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayaniKaushalya&layout=compact&langs_count=7&theme=tokyonight"/>
 
 
