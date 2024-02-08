@@ -1,10 +1,10 @@
 
 <h2 align="center">
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=440719513550733461" height="359" width="345" frameborder="0" scrolling="no" ></iframe>
+<img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="400">
 </h2>
  
 <br>
-### Hello<iframe src="https://giphy.com/embed/bcKmIWkUMCjVm" width="50" height="349" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/animated-hello-waving-bcKmIWkUMCjVm">via GIPHY</a></p>
+### Hello <img src="https://user-images.githubusercontent.com/74038190/216654095-6f6772e4-e433-4bba-9164-1ca6f463ac3f.gif" width="50" />
 
 
 
@@ -13,7 +13,7 @@ I'm Jayani Weerasinghe from Sri Lanka , and I'm an  enthusiastic, hardworking, e
 
 
  
- ## Technology Stack <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
+ ## Technology Stack 
 
 <p align='center'>
 <img src="https://user-images.githubusercontent.com/74038190/212749443-0810e511-4f46-4492-96aa-3c110d7bc41a.gif" width="500"></p>
@@ -55,9 +55,8 @@ I'm Jayani Weerasinghe from Sri Lanka , and I'm an  enthusiastic, hardworking, e
 <br>
 
 
-![Github status](https://github-readme-stats.vercel.app/api?username=JayaniKaushalya&count_private=true&show_icons=true&theme=radical)
+![Github status](https://github-readme-stats.vercel.app/api?username=JayaniKaushalya&count_private=true&show_icons=true&theme=tokyonight)
 
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayaniKaushalya&layout=compact&langs_count=7&theme=tokyonight"/>
 
-<br>
-<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="400">
+
