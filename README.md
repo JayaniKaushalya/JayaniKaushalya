@@ -38,25 +38,16 @@ I'm Jayani Weerasinghe from Sri Lanka , and I'm an  enthusiastic, hardworking, e
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Invision](https://img.shields.io/badge/invision-FF3366?style=for-the-badge&logo=invision&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
-<br>
 
-<h3> Dev Card </h3>
 
-<br>
-<h2  align="center">
-<a href="https://api.daily.dev/devcards/485df0be9b0d46b98c861fa5c78783fa.png?r=xu6"><img src="https://api.daily.dev/devcards/485df0be9b0d46b98c861fa5c78783fa.png?r=xu6" width="400" alt="Chathurika Wijesooriya's Dev Card"/></a>
-</h2>
+
 
 <br>
 
 <b> Where to reach me, </b> 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayani-weerasingha/) 
-
-[![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jayanikaushalya)
-
-[![Wix](https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white)](https://weerasinghaj7.wixsite.com/my-portfolio)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayani-weerasingha/) [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jayanikaushalya) [![Wix](https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white)](https://weerasinghaj7.wixsite.com/my-portfolio)
 
 
 
@@ -64,7 +55,7 @@ I'm Jayani Weerasinghe from Sri Lanka , and I'm an  enthusiastic, hardworking, e
 <br>
 
 
-![Github status](https://github-readme-stats.vercel.app/api?username=Chathu12345&count_private=true&show_icons=true&theme=radical)
+![Github status](https://github-readme-stats.vercel.app/api?username=JayaniKaushalya&count_private=true&show_icons=true&theme=radical)
 
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayaniKaushalya&layout=compact&langs_count=7&theme=tokyonight"/>
 
