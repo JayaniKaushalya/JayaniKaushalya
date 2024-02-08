@@ -1,6 +1,6 @@
 
 <h2 align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212898792-2844553a-e201-4eec-a5e2-3b0f532712e6.gif" width="200">
+<img src="https://user-images.githubusercontent.com/74038190/212749443-0810e511-4f46-4492-96aa-3c110d7bc41a.gif" width="500">
 </h2>
  
 <br>
