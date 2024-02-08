@@ -1,6 +1,7 @@
 
 <h2 align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212749443-0810e511-4f46-4492-96aa-3c110d7bc41a.gif" width="500">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6f28d73e-0d7e-4a6c-8ddf-bb24b69a71c0" width="400">
+<br><br>
 </h2>
  
 <br>
@@ -14,8 +15,11 @@ I'm Jayani Weerasinghe from Sri Lanka , and I'm an  enthusiastic, hardworking, e
 
  
  ## Technology Stack 
-
-
+<br>
+<h2 align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+<br>
+ 
 <h3> Languages & Frameworks </h3>
 
 <br>
