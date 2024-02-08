@@ -4,9 +4,7 @@
 </h2>
  
 <br>
-##Hello<img src="https://user-images.githubusercontent.com/74038190/216654095-6f6772e4-e433-4bba-9164-1ca6f463ac3f.gif" width="50" />
-
-
+Hello <img src="https://user-images.githubusercontent.com/74038190/216654095-6f6772e4-e433-4bba-9164-1ca6f463ac3f.gif" width="50" />
 
 I'm Jayani Weerasinghe from Sri Lanka , and I'm an  enthusiastic, hardworking, energetic, and creative fresh graduate with good interpersonal and communication skills, I am eager to learn new things at every opportunity. I am passionate about web development and design. 
 <br>
