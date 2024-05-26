@@ -57,6 +57,6 @@ I'm Jayani Weerasinghe from Sri Lanka , and I'm an  enthusiastic, hardworking, e
 <br>
 
 
-![Github status] <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayaniKaushalya&layout=compact&langs_count=7&theme=radical"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayaniKaushalya&layout=compact&langs_count=7&theme=radical"/>
 
 
